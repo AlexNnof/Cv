@@ -240,11 +240,14 @@ select {
     background-color: hsl( var(--clr-white) / 0.5 );
 }
 
+.prodjects-conteiner{
+    place-items: center;
+}
+
 iframe{
     margin:  auto;
     height: 1400px;
     width: 1400px;
-    align-self: center;
 }
 
 .back{
